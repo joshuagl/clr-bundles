@@ -39,6 +39,7 @@ gdk-pixbuf
 geany
 geany-plugins
 glib-networking-lib
+glib-networking-config
 gnome-icon-theme
 gnome-themes-standard
 graphviz
